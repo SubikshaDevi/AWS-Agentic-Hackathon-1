@@ -62,7 +62,7 @@ agents:
     bedrock_agentcore:
       agent_id: job_market_agent-gmX7PL4YPu
       agent_arn: arn:aws:bedrock-agentcore:us-east-2:746630811346:runtime/job_market_agent-gmX7PL4YPu
-      agent_session_id: f6857612-cffa-4270-87c2-f52709d5cd7e
+      agent_session_id: a0efcc8e-7747-4934-8daa-d7e86d3569bc
     codebuild:
       project_name: bedrock-agentcore-job_market_agent-builder
       execution_role: arn:aws:iam::746630811346:role/AmazonBedrockAgentCoreSDKCodeBuild-us-east-2-d71e2071cc
